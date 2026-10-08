@@ -1,4 +1,4 @@
-# 📎 Project Name : Mala3by - ملاعبي
+# 📎 Project Name : Mala3by - ملعبي
 ### Playground Booking Mobile Application - DEPI UI/UX Track
 
 ---
